@@ -1,0 +1,43 @@
+h1{
+    color: darkgreen;
+}
+p{
+    color: blueviolet;
+}
+h3{
+    color: palevioletred;
+}
+
+ul{
+    list-style-image: url(images/pointer-icon.png);
+}
+
+ol{
+  list-style-type: upper-roman
+}
+
+#menu-bar a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: aqua;
+    color: #ffffff;
+}
+
+table{
+    font-family: Hevetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-color: #0B3B0B;
+    background-color: #81F79F; 
+}
+
+th{
+    font-weight: 800;
+    background-color: #0B3B0B;
+    color: #ffffff;
+}
